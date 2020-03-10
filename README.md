@@ -1,6 +1,6 @@
 # markdown-json-rendering
 
-- Example of json
+- Example of JSON 1:
 
 ```json
 
@@ -12,3 +12,16 @@
 }
 
 ```
+
+- Example of JSON 2:
+
+- Title
+    - ** Description **
+        - ` POST ` ` /user/ `
+        - Request payload
+        ```json
+            {
+                "email": "example@example.com"
+                "password": 123123
+            }
+        ```
