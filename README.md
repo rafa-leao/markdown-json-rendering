@@ -21,7 +21,7 @@
         - Request payload
         ```json
             {
-                "email": "example@example.com"
+                "email": "example@example.com",
                 "password": 123123
             }
         ```
