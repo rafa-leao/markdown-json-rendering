@@ -2,6 +2,8 @@
 
 - Example of JSON 1:
 
+*The following JSON works perfectly on mobile as in the browser* 
+
 ```json
 
 {
@@ -15,8 +17,12 @@
 
 - Example of JSON 2:
 
+*This case in specific I made a tiny documentation of my web api and I came up with this format*
+
+*In this case it breaks. It kinda makes sense because of indentation*
+
 - Title
-    - ** Description **
+    - **Description**
         - ` POST ` ` /user/ `
         - Request payload
         ```json
